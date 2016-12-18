@@ -1,0 +1,18 @@
+c:\users\brian\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\brian\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\brian\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\brian\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\DiceRollerMain.csprojResolveAssemblyReference.cache
+c:\users\brian\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\brian\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\BrianMooreDiceRoller\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\BrianMooreDiceRoller\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\BrianMooreDiceRoller\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\BrianMooreDiceRoller\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\BrianMooreDiceRoller\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\Visual Studio 2015\Projects\BrianMooreDiceRoller\ConsoleApplication1\obj\Debug\DiceRollerMain.csprojResolveAssemblyReference.cache
+C:\Users\Brian\Documents\UOP2015\POS409\BrianMooreDiceRoller\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Brian\Documents\UOP2015\POS409\BrianMooreDiceRoller\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\UOP2015\POS409\BrianMooreDiceRoller\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\UOP2015\POS409\BrianMooreDiceRoller\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Brian\Documents\UOP2015\POS409\BrianMooreDiceRoller\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Brian\Documents\UOP2015\POS409\BrianMooreDiceRoller\ConsoleApplication1\obj\Debug\DiceRollerMain.csprojResolveAssemblyReference.cache
